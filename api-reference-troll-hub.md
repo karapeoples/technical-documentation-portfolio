@@ -1,4 +1,4 @@
-##Troll Hub — API Reference
+## Troll Hub — API Reference
 
 ## Base URL
 `/api`
