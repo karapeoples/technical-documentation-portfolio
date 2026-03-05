@@ -3,31 +3,40 @@
 Documentation portfolio demonstrating developer-facing technical documentation, including API references, setup guides, and system workflows.
 
 A collection of documentation samples demonstrating:
-- developer onboarding/setup instructions
+
+- developer onboarding / setup instructions
 - API reference documentation
 - route and schema documentation
+
+---
 
 ## Samples
 
 ### School'R — Setup Guide
 Developer onboarding documentation for running a React application with a mock API.
 
-File: setup-guide-schoolr.md
+File: `setup-guide-schoolr.md`
+
+---
 
 ### Troll Hub — API Reference
-REST API documentation, including schemas, authentication, and endpoint tables.
+REST API documentation, including schemas, authentication, and endpoint reference tables.
 
-File: api-reference-troll-hub.md
+File: `api-reference-troll-hub.md`
+
+---
 
 ### cake-base — API Routes Reference
 Route reference documentation for a modular retail inventory API.
 
-File: api-reference-cake-base.md
+File: `api-reference-cake-base.md`
 
-### XYZ Bank — Test Automation Framework Documentation 
-Example documentation for a Java/TestNG automation framework, including project structure, configuration, and reporting.
+---
 
-Repository: https://github.com/karapeoples/genspark_XYZBank
+### XYZ Bank — Test Automation Framework Documentation
+Example documentation for a Java/TestNG automation framework, including project structure, configuration, and automated test reporting.
+
+Repository: [genspark_XYZBank Test Automation Framework](https://github.com/karapeoples/genspark_XYZBank)
 
 
 
