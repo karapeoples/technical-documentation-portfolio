@@ -24,6 +24,11 @@ Route reference documentation for a modular retail inventory API.
 
 File: api-reference-cake-base.md
 
+### XYZ Bank — Test Automation Framework Documentation 
+Example documentation for a Java/TestNG automation framework, including project structure, configuration, and reporting.
+
+Repository: https://github.com/karapeoples/genspark_XYZBank
+
 
 
 
