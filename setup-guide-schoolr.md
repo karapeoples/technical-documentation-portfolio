@@ -14,53 +14,24 @@ This documentation sample focuses on helping a developer clone, install, and run
 ## Installation
 
 1. Clone the repository.
-2. Install dependencies:
+2. Install dependencies with `npm install` or `yarn`.
 
-npm
-```bash
-npm install
-```
-or
-
-yarn
-```bash
-yarn
-```
 
 ## Start the Mock API
 
-Run one of the following commands:
+Run `npm run mock:api` or `yarn mock:api`.
 
-```bash
-npm run mock:api
-```
-or
-
-```bash
-yarn mock:api
-```
-This starts the mock API used to support CRUD workflows through the local data source.
+This starts the local mock API used to support CRUD workflows during development.
 
 ## Start the Application
 
-In a separate terminal, run:
-
-```bash
-npm start
-```
-or
-
-```bash
-yarn start
-```
+In a separate terminal, run `npm start` or `yarn start`.
 
 ## Troubleshooting Notes
 
-If the UI loads but project data is missing, confirm the mock API is running.
-
-If a port conflict occurs, update the script in package.json or stop the conflicting process.
-
-If CRUD changes do not appear, verify that the local mock API process started successfully.
+- If the UI loads but project data is missing, confirm the mock API is running.  
+- If a port conflict occurs, update the script in `package.json` or stop the conflicting process.  
+- If CRUD changes do not appear, verify that the local mock API process started successfully.  
 
 ## Documentation Goal
 
